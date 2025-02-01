@@ -1,0 +1,50 @@
+commit d1bd2ad9cf68fb47f49828f38ab5fb6d23e06009
+Author: alyzzaT <alyssatu9@gmail.com>
+Date:   Fri Jan 31 18:55:12 2025 -0800
+
+    merged fav and videogame
+
+commit 6a1e61dab911549b3238da09f4a6ffcb48b42cb2
+Author: alyzzaT <alyssatu9@gmail.com>
+Date:   Fri Jan 31 18:40:04 2025 -0800
+
+    Added my favorite videogame
+
+commit 806584819a7d3b53c781530e33b6cf2a592d5b9b
+Author: alyzzaT <alyssatu9@gmail.com>
+Date:   Fri Jan 31 18:38:32 2025 -0800
+
+    Added my favorite videogame
+
+commit cdc5e11390ac197e6b61b86a333a2fb2e6af09e0
+Author: alyzzaT <alyssatu9@gmail.com>
+Date:   Fri Jan 31 18:36:49 2025 -0800
+
+    Added my favorite food
+
+commit e54c14486c0bb7120f51839d952505cc678a9234
+Author: alyzzaT <144284961+alyzzaT@users.noreply.github.com>
+Date:   Fri Jan 31 18:28:50 2025 -0800
+
+    Create README.md
+
+commit 036dfe4949ebff863a757226725bb3797e666548
+Merge: 1d2bfc0 690408c
+Author: alyzzaT <144284961+alyzzaT@users.noreply.github.com>
+Date:   Fri Jan 31 18:27:22 2025 -0800
+
+    Merge pull request #1 from alyzzaT/info-fill
+    
+    Added name and favorite hobby
+
+commit 690408cb950357197b0e9ec9825c7534f0dddb16
+Author: alyzzaT <alyssatu9@gmail.com>
+Date:   Fri Jan 31 18:25:30 2025 -0800
+
+    Added name and favorite hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
